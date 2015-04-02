@@ -1,5 +1,5 @@
 # paintingworms
-perlin noise worms crawling across the screen. You need processing to run this program.
+perlin noise worms crawling across the screen. You need [processing](https://processing.org/) to run this program.
 See the worms in action: https://vimeo.com/123993212
 
 ![](http://tombr.de/stuff/paintingworms.png)

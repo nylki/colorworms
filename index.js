@@ -1,7 +1,7 @@
 const MAX_MOVERS = 750;
 
 function setup() {
-  createCanvas(displayWidth, displayHeight);
+  createCanvas(windowWidth, windowHeight);
   colorMode(HSB, 255);
   fill(0, 5);
 

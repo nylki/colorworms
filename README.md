@@ -1,10 +1,10 @@
 # paintingworms
 perlin noise worms crawling across the screen.
 
-[**Live Demo:**]()
+- [**Live Demo**](http://nylki.github.io/paintingworms/)
 [![](http://tombr.de/stuff/paintingworms.png)]()
 
-Or watch a [**Screenrecording**](https://vimeo.com/123993212) of it.
+- Or watch a [**Screenrecording**](https://vimeo.com/123993212) of it.
 
 
 This is the JavaScript/p5.js version. If you are looking for the older pure processing version, see [this branch](https://github.com/nylki/paintingworms/tree/processing).

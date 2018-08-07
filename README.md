@@ -1,8 +1,9 @@
 # paintingworms
 perlin noise worms crawling across the screen.
 
-- [**Live Demo**](http://nylki.github.io/paintingworms/)
-[![](http://tombr.de/stuff/paintingworms.png)]()
+
+[**Live Demo**](http://nylki.github.io/paintingworms/)
+[[Live Demo](http://tombr.de/stuff/paintingworms.png)](http://nylki.github.io/paintingworms/)
 
 - Or watch a [**Screenrecording**](https://vimeo.com/123993212) of it.
 

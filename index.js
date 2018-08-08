@@ -1,4 +1,4 @@
-const MAX_MOVERS = 750;
+const MAX_MOVERS = 650;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
